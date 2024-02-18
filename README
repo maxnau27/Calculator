@@ -4,6 +4,6 @@
 
 Вычитание: http://localhost:8080/calc/subtract/число1/число2
 
-Умножение: http://localhost:8080/calc/multiply/число1}/число2
+Умножение: http://localhost:8080/calc/multiply/число1/число2
 
 Деление: http://localhost:8080/calc/divide/число1/число2
